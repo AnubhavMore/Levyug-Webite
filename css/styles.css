@@ -310,7 +310,7 @@ background: #FFF;
     margin-top: 90px;
   }
   .card{
-    width:60%;
+    width:400px;
     overflow-x: hidden;
     margin:20px auto;
     height:200px;
@@ -319,9 +319,9 @@ background: #FFF;
     box-shadow: #0E0E0E;
     align-items: center;
     margin-bottom: 20px;
-    background-color: #f8e5d8;
-    padding-top: 3px;
-    box-shadow: 0 0 5px 2px #faae7c;
+    background-color:white;
+    padding-top: 20px;
+    box-shadow: 0 0 5px 2px #d3d3d3;
   }
   .card-img{
     width:30%;
@@ -346,7 +346,7 @@ background: #FFF;
     padding-bottom:10px;
     margin-bottom:30px;
     padding-right:15px;
-    box-shadow: 0 0 5px 2px #D92027;
+    box-shadow: 0 0 5px 2px #ff787d;
     border-radius: 30px;
   }
   .what-cards-img{
