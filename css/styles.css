@@ -14,7 +14,7 @@ body {
   color: #282828;
   line-height: 26px;
   padding: 0;
-  overflow-x: hidden;
+  overflow-x:hidden;
 }
 h1,
 h2,
@@ -281,6 +281,7 @@ background: #FFF;
     padding-top:20px;
   }
   .quote{
+    overflow-x: hidden;
     width:100%;
     /* border:4px solid darkgoldenrod; */
     height:50lvh;
@@ -295,6 +296,7 @@ background: #FFF;
   .dark-section{
     background-color: #000000;
     width:100%;
+    overflow-x: hidden;
     height:100vh;
 
   }
@@ -308,7 +310,8 @@ background: #FFF;
     margin-top: 90px;
   }
   .card{
-    width:450px;
+    width:60%;
+    margin:20px auto;
     height:200px;
     border-radius: 30px;
     text-align: center;
