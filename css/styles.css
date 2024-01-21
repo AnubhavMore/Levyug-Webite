@@ -352,45 +352,6 @@ background: #FFF;
   .what-cards-img{
     width:20%;
   }
-  .address{
-    height:700px
-  }
-  .bg-address{
-    opacity:0.75;
-    height:75%;
-    width:100%;
-  }
-  .address-text{
-    position: absolute;
-      left:25%;
-      padding-bottom: 800px;
-      transform: translate(-50%, -50%);
-      color: black; /* Set text color */
-      font-size: 15px; /* Set font size */
-      font-weight: bold; /* Set font weight if needed */
-      text-align: left; /* Center text horizontally */
-  }
-  .phone-text{
-    position: absolute;
-      left:25%;
-      padding-bottom: 600px;
-      transform: translate(-50%, -50%);
-      color: black; /* Set text color */
-      font-size: 15px; /* Set font size */
-      font-weight: bold; /* Set font weight if needed */
-      text-align: left; /* Center text horizontally */
-  }
-  .working-text{
-    position: relative;
-    left:600px;
-    margin:0;
-      padding-bottom: 500px;
-      transform: translate(-50%, -50%);
-      color: black; /* Set text color */
-      font-size: 15px; /* Set font size */
-      font-weight: bold; /* Set font weight if needed */
-      text-align: left; /* Center text horizontally */
-  }
 
 
 }
