@@ -325,10 +325,11 @@ background: #FFF;
     margin-bottom: 20px;
     background-color:white;
     padding-top: 20px;
-    box-shadow: 0 0 5px 2px #d3d3d3;
+   
+    
   }
   .card-img{
-    width:30%;
+    width:20%;
     margin:5px auto;
 
   }
@@ -410,9 +411,36 @@ background: #FFF;
 /* for website development  */
 
 body{
-  background-color: #000000;
+  background-color:white;
   width:100vh;
   height:100vh;
+  padding:0;
+  margin:0;
+}
+.web-agency{
+  background-color: white;
+  width:100vh;
+  display: flex;
+  flex-direction: column;
+  gap:20px;
+ 
+}
+.web-agency h2{
+  margin: 0;
+  margin-left: 10px;
+  color:#D92027;
+}
+.web-agency span{
+  margin-left:13px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.web-agency p{
+  margin-left: 10px;
+  text-align: left;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: 500;
 }
 
 }
